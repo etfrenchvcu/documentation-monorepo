@@ -1,0 +1,7 @@
+**/sandbox.ipynb
+apcd/out
+apcd/raw
+data/*
+env
+
+.pylintrc

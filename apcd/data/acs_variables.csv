@@ -1,0 +1,96 @@
+variable,concept,label,category,field
+B01001_002E,SEX BY AGE,Estimate!!Total:!!Male:,sex,sex_male
+B01001_003E,SEX BY AGE,Estimate!!Total:!!Male:!!Under 5 years,age,age_0_4
+B01001_004E,SEX BY AGE,Estimate!!Total:!!Male:!!5 to 9 years,age,age_5_9
+B01001_005E,SEX BY AGE,Estimate!!Total:!!Male:!!10 to 14 years,age,age_10_14
+B01001_006E,SEX BY AGE,Estimate!!Total:!!Male:!!15 to 17 years,age,age_15_17
+B01001_007E,SEX BY AGE,Estimate!!Total:!!Male:!!18 and 19 years,age,age_18_19
+B01001_008E,SEX BY AGE,Estimate!!Total:!!Male:!!20 years,age,age_20
+B01001_009E,SEX BY AGE,Estimate!!Total:!!Male:!!21 years,age,age_21
+B01001_010E,SEX BY AGE,Estimate!!Total:!!Male:!!22 to 24 years,age,age_22_24
+B01001_011E,SEX BY AGE,Estimate!!Total:!!Male:!!25 to 29 years,age,age_25_29
+B01001_012E,SEX BY AGE,Estimate!!Total:!!Male:!!30 to 34 years,age,age_30_34
+B01001_013E,SEX BY AGE,Estimate!!Total:!!Male:!!35 to 39 years,age,age_35_39
+B01001_014E,SEX BY AGE,Estimate!!Total:!!Male:!!40 to 44 years,age,age_40_44
+B01001_015E,SEX BY AGE,Estimate!!Total:!!Male:!!45 to 49 years,age,age_45_49
+B01001_016E,SEX BY AGE,Estimate!!Total:!!Male:!!50 to 54 years,age,age_50_54
+B01001_017E,SEX BY AGE,Estimate!!Total:!!Male:!!55 to 59 years,age,age_55_59
+B01001_018E,SEX BY AGE,Estimate!!Total:!!Male:!!60 and 61 years,age,age_60_61
+B01001_019E,SEX BY AGE,Estimate!!Total:!!Male:!!62 to 64 years,age,age_62_64
+B01001_020E,SEX BY AGE,Estimate!!Total:!!Male:!!65 and 66 years,age,age_65_66
+B01001_021E,SEX BY AGE,Estimate!!Total:!!Male:!!67 to 69 years,age,age_67_69
+B01001_022E,SEX BY AGE,Estimate!!Total:!!Male:!!70 to 74 years,age,age_70_74
+B01001_023E,SEX BY AGE,Estimate!!Total:!!Male:!!75 to 79 years,age,age_75_79
+B01001_024E,SEX BY AGE,Estimate!!Total:!!Male:!!80 to 84 years,age,age_80_84
+B01001_025E,SEX BY AGE,Estimate!!Total:!!Male:!!85 years and over,age,age_85_over
+B01001_026E,SEX BY AGE,Estimate!!Total:!!Female:,sex,sex_female
+B01001_027E,SEX BY AGE,Estimate!!Total:!!Female:!!Under 5 years,age,age_0_4
+B01001_028E,SEX BY AGE,Estimate!!Total:!!Female:!!5 to 9 years,age,age_5_9
+B01001_029E,SEX BY AGE,Estimate!!Total:!!Female:!!10 to 14 years,age,age_10_14
+B01001_030E,SEX BY AGE,Estimate!!Total:!!Female:!!15 to 17 years,age,age_15_17
+B01001_031E,SEX BY AGE,Estimate!!Total:!!Female:!!18 and 19 years,age,age_18_19
+B01001_032E,SEX BY AGE,Estimate!!Total:!!Female:!!20 years,age,age_20
+B01001_033E,SEX BY AGE,Estimate!!Total:!!Female:!!21 years,age,age_21
+B01001_034E,SEX BY AGE,Estimate!!Total:!!Female:!!22 to 24 years,age,age_22_24
+B01001_035E,SEX BY AGE,Estimate!!Total:!!Female:!!25 to 29 years,age,age_25_29
+B01001_036E,SEX BY AGE,Estimate!!Total:!!Female:!!30 to 34 years,age,age_30_34
+B01001_037E,SEX BY AGE,Estimate!!Total:!!Female:!!35 to 39 years,age,age_35_39
+B01001_038E,SEX BY AGE,Estimate!!Total:!!Female:!!40 to 44 years,age,age_40_44
+B01001_039E,SEX BY AGE,Estimate!!Total:!!Female:!!45 to 49 years,age,age_45_49
+B01001_040E,SEX BY AGE,Estimate!!Total:!!Female:!!50 to 54 years,age,age_50_54
+B01001_041E,SEX BY AGE,Estimate!!Total:!!Female:!!55 to 59 years,age,age_55_59
+B01001_042E,SEX BY AGE,Estimate!!Total:!!Female:!!60 and 61 years,age,age_60_61
+B01001_043E,SEX BY AGE,Estimate!!Total:!!Female:!!62 to 64 years,age,age_62_64
+B01001_044E,SEX BY AGE,Estimate!!Total:!!Female:!!65 and 66 years,age,age_65_66
+B01001_045E,SEX BY AGE,Estimate!!Total:!!Female:!!67 to 69 years,age,age_67_69
+B01001_046E,SEX BY AGE,Estimate!!Total:!!Female:!!70 to 74 years,age,age_70_74
+B01001_047E,SEX BY AGE,Estimate!!Total:!!Female:!!75 to 79 years,age,age_75_79
+B01001_048E,SEX BY AGE,Estimate!!Total:!!Female:!!80 to 84 years,age,age_80_84
+B01001_049E,SEX BY AGE,Estimate!!Total:!!Female:!!85 years and over,age,age_85_over
+B01003_001E,TOTAL POPULATION,Estimate!!Total,total,total
+B01001_003E,SEX BY AGE,Estimate!!Total:!!Male:!!Under 5 years,under_18,under_18_yes
+B01001_004E,SEX BY AGE,Estimate!!Total:!!Male:!!5 to 9 years,under_18,under_18_yes
+B01001_005E,SEX BY AGE,Estimate!!Total:!!Male:!!10 to 14 years,under_18,under_18_yes
+B01001_006E,SEX BY AGE,Estimate!!Total:!!Male:!!15 to 17 years,under_18,under_18_yes
+B01001_007E,SEX BY AGE,Estimate!!Total:!!Male:!!18 and 19 years,under_18,under_18_no
+B01001_008E,SEX BY AGE,Estimate!!Total:!!Male:!!20 years,under_18,under_18_no
+B01001_009E,SEX BY AGE,Estimate!!Total:!!Male:!!21 years,under_18,under_18_no
+B01001_010E,SEX BY AGE,Estimate!!Total:!!Male:!!22 to 24 years,under_18,under_18_no
+B01001_011E,SEX BY AGE,Estimate!!Total:!!Male:!!25 to 29 years,under_18,under_18_no
+B01001_012E,SEX BY AGE,Estimate!!Total:!!Male:!!30 to 34 years,under_18,under_18_no
+B01001_013E,SEX BY AGE,Estimate!!Total:!!Male:!!35 to 39 years,under_18,under_18_no
+B01001_014E,SEX BY AGE,Estimate!!Total:!!Male:!!40 to 44 years,under_18,under_18_no
+B01001_015E,SEX BY AGE,Estimate!!Total:!!Male:!!45 to 49 years,under_18,under_18_no
+B01001_016E,SEX BY AGE,Estimate!!Total:!!Male:!!50 to 54 years,under_18,under_18_no
+B01001_017E,SEX BY AGE,Estimate!!Total:!!Male:!!55 to 59 years,under_18,under_18_no
+B01001_018E,SEX BY AGE,Estimate!!Total:!!Male:!!60 and 61 years,under_18,under_18_no
+B01001_019E,SEX BY AGE,Estimate!!Total:!!Male:!!62 to 64 years,under_18,under_18_no
+B01001_020E,SEX BY AGE,Estimate!!Total:!!Male:!!65 and 66 years,under_18,under_18_no
+B01001_021E,SEX BY AGE,Estimate!!Total:!!Male:!!67 to 69 years,under_18,under_18_no
+B01001_022E,SEX BY AGE,Estimate!!Total:!!Male:!!70 to 74 years,under_18,under_18_no
+B01001_023E,SEX BY AGE,Estimate!!Total:!!Male:!!75 to 79 years,under_18,under_18_no
+B01001_024E,SEX BY AGE,Estimate!!Total:!!Male:!!80 to 84 years,under_18,under_18_no
+B01001_025E,SEX BY AGE,Estimate!!Total:!!Male:!!85 years and over,under_18,under_18_no
+B01001_027E,SEX BY AGE,Estimate!!Total:!!Female:!!Under 5 years,under_18,under_18_yes
+B01001_028E,SEX BY AGE,Estimate!!Total:!!Female:!!5 to 9 years,under_18,under_18_yes
+B01001_029E,SEX BY AGE,Estimate!!Total:!!Female:!!10 to 14 years,under_18,under_18_yes
+B01001_030E,SEX BY AGE,Estimate!!Total:!!Female:!!15 to 17 years,under_18,under_18_yes
+B01001_031E,SEX BY AGE,Estimate!!Total:!!Female:!!18 and 19 years,under_18,under_18_no
+B01001_032E,SEX BY AGE,Estimate!!Total:!!Female:!!20 years,under_18,under_18_no
+B01001_033E,SEX BY AGE,Estimate!!Total:!!Female:!!21 years,under_18,under_18_no
+B01001_034E,SEX BY AGE,Estimate!!Total:!!Female:!!22 to 24 years,under_18,under_18_no
+B01001_035E,SEX BY AGE,Estimate!!Total:!!Female:!!25 to 29 years,under_18,under_18_no
+B01001_036E,SEX BY AGE,Estimate!!Total:!!Female:!!30 to 34 years,under_18,under_18_no
+B01001_037E,SEX BY AGE,Estimate!!Total:!!Female:!!35 to 39 years,under_18,under_18_no
+B01001_038E,SEX BY AGE,Estimate!!Total:!!Female:!!40 to 44 years,under_18,under_18_no
+B01001_039E,SEX BY AGE,Estimate!!Total:!!Female:!!45 to 49 years,under_18,under_18_no
+B01001_040E,SEX BY AGE,Estimate!!Total:!!Female:!!50 to 54 years,under_18,under_18_no
+B01001_041E,SEX BY AGE,Estimate!!Total:!!Female:!!55 to 59 years,under_18,under_18_no
+B01001_042E,SEX BY AGE,Estimate!!Total:!!Female:!!60 and 61 years,under_18,under_18_no
+B01001_043E,SEX BY AGE,Estimate!!Total:!!Female:!!62 to 64 years,under_18,under_18_no
+B01001_044E,SEX BY AGE,Estimate!!Total:!!Female:!!65 and 66 years,under_18,under_18_no
+B01001_045E,SEX BY AGE,Estimate!!Total:!!Female:!!67 to 69 years,under_18,under_18_no
+B01001_046E,SEX BY AGE,Estimate!!Total:!!Female:!!70 to 74 years,under_18,under_18_no
+B01001_047E,SEX BY AGE,Estimate!!Total:!!Female:!!75 to 79 years,under_18,under_18_no
+B01001_048E,SEX BY AGE,Estimate!!Total:!!Female:!!80 to 84 years,under_18,under_18_no
+B01001_049E,SEX BY AGE,Estimate!!Total:!!Female:!!85 years and over,under_18,under_18_no
