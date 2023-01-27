@@ -3,7 +3,7 @@ This repository is a consolidated portfolio of proof-of-concepts of various tech
 
 # Projects
 
-## All Payers Claims Database ([APCD](apcd/README.md))
+## All Payers Claims Database ([APCD](apcd/))
 
-## National COVID Cohort Collaborative ([N3C](n3c/README.md))
+## National COVID Cohort Collaborative ([N3C](n3c/))
 
