@@ -1,5 +1,5 @@
 **/sandbox.ipynb
-apcd/out
+**/out
 apcd/raw
 data/*
 env
